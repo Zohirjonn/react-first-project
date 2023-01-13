@@ -1,0 +1,36 @@
+.photo img {
+    max-width: 100%;
+    background-color: #fff;
+    padding: 0;
+    border: none;
+}
+
+.photo {
+    padding: 0;
+}
+
+#img {
+    margin: 1rem;
+    min-height: 360px;
+    overflow: hidden;
+    background-color: #fff;
+    border: none;
+    box-shadow: 0 0 5px 5px rgba(29, 28, 28, 0.461);
+    transition: all 0.3s ease;
+
+}
+
+#img:hover {
+    box-shadow: 0 5px 5px 5px rgba(36, 35, 35, 0.461);
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.cardbody {
+    overflow: visible;
+    max-height: 90px;
+    border: none;
+    background-color: #fff;
+    padding: 1rem;
+
+}

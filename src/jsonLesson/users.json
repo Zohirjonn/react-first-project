@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Dilshod",
+        "age":23,
+        "isStudent":true,
+        "country":"Uzbekistan"
+        
+    },
+    {
+        "id":2,
+        "name":"Begzod",
+        "age":20,
+        "isStudent":true,
+        "country":"Uzbekistan"
+        
+    },
+    {
+        "id":3,
+        "name":"Ilhom",
+        "age":24,
+        "isStudent":false,
+        "country":"Uzbekistan"
+        
+    }
+    
+]

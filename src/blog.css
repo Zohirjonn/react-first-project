@@ -1,0 +1,11 @@
+.blog {
+    background-color: rgb(103, 31, 31);
+    border-radius: 5px;
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 1rem;
+    color: white;
+    box-sizing: border-box;
+    padding: 0.5rem;
+    box-shadow: 0 5px 5px darkblue;
+}

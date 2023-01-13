@@ -1,0 +1,8 @@
+.infos {
+    background-color: rgb(41, 92, 92);
+    border: 2px solid rgb(53, 85, 83);
+    width: 25%;
+    margin: 1rem auto;
+    border-radius: 5px;
+    color: aliceblue;
+}

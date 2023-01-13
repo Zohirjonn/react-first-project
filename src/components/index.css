@@ -1,0 +1,21 @@
+#n2 {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    margin: 0 auto 1rem auto;
+    max-width: 60%;
+
+}
+
+#n2 button {
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    border-radius: 4px;
+    box-shadow: 0 0 5px 2px rgb(79, 79, 161);
+}

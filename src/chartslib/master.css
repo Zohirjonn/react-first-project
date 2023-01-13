@@ -1,0 +1,8 @@
+.recharts-responsive-container {
+    height: 400px !important;
+    width: 60% !important;
+    margin: 2rem auto;
+    background-color: rgb(213, 244, 244);
+    margin: 2rem auto;
+    border-radius: 5px;
+}

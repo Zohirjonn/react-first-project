@@ -1,0 +1,22 @@
+.app {
+    background-color: rgb(16, 143, 143);
+    text-align: center;
+}
+
+.tepaga {
+    padding: 0.5rem 1rem;
+    background-color: black;
+    color: white;
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    border: 2px solid rgba(0, 0, 0, 0.661);
+
+
+}
+
+#nav {
+    position: sticky;
+    top: 0;
+}
+
